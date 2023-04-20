@@ -1,0 +1,6 @@
+This repository contains the datasets from the PhD thesis "The Rectal Gland Chemistries of Two Species of Bactroceran Fruit Flies" by Cynthia Castro Vargas
+
+S2_1 Dataset --> Chapter 2: S2.1 Data Set. Raw peak areas of peaks detected by GC-FID.
+S3_1 Dataset --> Chapter 3: S3.1 Data Set. Raw peak areas of peaks detected by GC-FID in the minor set of isofemale lines. 
+S3_2 Dataset --> Chapter 3: S3.2 Data Set. Raw peak areas of S06 peaks detected by SPME GC-MS.
+S4_1 Dataset --> Chapter 4: S4.1 Data Set. Raw peak area data for all the samples and peaks used in either the rectal gland or whole male analyses
